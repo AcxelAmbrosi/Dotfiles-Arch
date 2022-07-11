@@ -1,0 +1,10 @@
+[2022-07-11 08:32:10.185] [exthost] [info] Extension host with pid 16798 started
+[2022-07-11 08:32:10.185] [exthost] [info] Skipping acquiring lock for /home/acxel/.config/Code - OSS/User/workspaceStorage/48f9499d9b48d6879fec8507e8d3ffbf.
+[2022-07-11 08:32:10.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-11 08:32:10.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-11 08:32:10.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-11 08:32:10.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-11 08:32:10.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-11 08:32:10.969] [exthost] [info] Eager extensions activated
+[2022-07-11 08:32:11.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-11 08:32:11.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

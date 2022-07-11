@@ -1,0 +1,18 @@
+[2022-07-11 15:09:02.378] [exthost] [info] Extension host with pid 3781 started
+[2022-07-11 15:09:02.378] [exthost] [info] Skipping acquiring lock for /home/acxel/.config/Code - OSS/User/workspaceStorage/48f9499d9b48d6879fec8507e8d3ffbf.
+[2022-07-11 15:09:02.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-11 15:09:02.612] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-11 15:09:02.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-11 15:09:02.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-11 15:09:03.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-11 15:09:03.430] [exthost] [info] Eager extensions activated
+[2022-07-11 15:09:03.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-11 15:09:03.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-11 15:11:41.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-11 15:11:41.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-11 15:11:41.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-11 15:11:41.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-11 15:20:01.389] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-11 15:20:01.405] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-11 15:20:01.406] [exthost] [info] Extension host with pid 3781 exiting with code 0

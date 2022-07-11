@@ -1,0 +1,12 @@
+2022/07/11-15:46:50.688 23d9 Reusing MANIFEST /home/acxel/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/11-15:46:50.689 23d9 Recovering log #13
+2022/07/11-15:46:50.717 23d9 Reusing old log /home/acxel/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000013.log 
+2022/07/11-15:47:05.108 23dc Level-0 table #18: started
+2022/07/11-15:47:05.718 23dc Level-0 table #18: 1093476 bytes OK
+2022/07/11-15:47:06.377 23dc Delete type=0 #13
+2022/07/11-15:49:21.796 23b1 Compacting 1@1 + 1@2 files
+2022/07/11-15:49:22.100 23b1 Generated table #19@1: 328 keys, 26244 bytes
+2022/07/11-15:49:22.100 23b1 Compacted 1@1 + 1@2 files => 26244 bytes
+2022/07/11-15:49:22.321 23b1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/11-15:49:22.321 23b1 Delete type=2 #18
+2022/07/11-15:49:22.321 23b1 Delete type=2 #15

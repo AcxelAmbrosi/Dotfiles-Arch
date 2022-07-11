@@ -1,0 +1,7 @@
+2022/07/11-15:08:03.029 ce0 Reusing MANIFEST /home/acxel/.config/google-chrome/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/11-15:08:03.030 ce0 Recovering log #3
+2022/07/11-15:08:03.033 ce0 Reusing old log /home/acxel/.config/google-chrome/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb/000003.log 
+2022/07/11-15:32:44.602 1dae Level-0 table #5: started
+2022/07/11-15:32:44.740 1dae Level-0 table #5: 8243 bytes OK
+2022/07/11-15:32:44.892 1dae Delete type=0 #3
+2022/07/11-15:32:44.892 1dae Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/07/10-18:46:55.915 332e Creating DB /home/acxel/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
+2022/07/10-18:46:56.237 332e Reusing MANIFEST /home/acxel/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/10-18:48:03.362 332e Level-0 table #5: started
+2022/07/10-18:48:03.489 332e Level-0 table #5: 5856 bytes OK
+2022/07/10-18:48:03.578 332e Delete type=0 #3
+2022/07/10-18:48:03.578 332e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
